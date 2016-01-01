@@ -37,14 +37,10 @@ INIT is a ***daemon***, [desambiguation is needed](https://es.wikipedia.org/wiki
 -----------------
 [wiki](https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n)
 
-<blockquote>
 To [abstract](https://en.wikipedia.org/wiki/THOG_problem) while [thinking](https://es.wikipedia.org/wiki/Paradoja_de_la_p%C3%A9rdida_de_informaci%C3%B3n_en_agujeros_negros) could be nice, you know, kind of [orgiastic](https://es.wikipedia.org/wiki/Etat_second) trance to be "in code mode". But **v12n** is really a [metaphisic layer](https://es.wikipedia.org/wiki/Problema_de_los_universales) to the [four elements](https://es.wikipedia.org/wiki/Elementos_de_la_antig%C3%BCedad#Los_Cuatro_Elementos_en_el_budismo_temprano) of ciber life: CPU, Memoria, Dispositivos Periféricos y Conexiones de Red.
-</blockquote>
 
 v12n is a ***numeronym***, and, in public, by the wide side of viewing things, when she comes to a machine context by running one, [duality](https://en.wikipedia.org/wiki/Duality_principle) begins over host process as a top holonist dimension over guest INIT invocation.
 
-```
- While talking of simulating real hardware, [machine language](https://es.wikipedia.org/wiki/Lenguaje_de_m%C3%A1quina) instead of [interpreted languages] (https://en.wikipedia.org/wiki/Interpreted_language) could worth the narrow semantics.
- ```
- 
- While [transcription and traduction](http://www.diffen.com/difference/Transcription_vs_Translation) are not exactly the same, a [real](https://es.wikipedia.org/wiki/Privilegio) or virtual machine are not both the same. It matters, at last protein creation from [root language](http://genome.ucsc.edu/cgi-bin/hgTables?command=start) codification over basic [system components](http://minnie.tuhs.org/CompArch/Lectures/Figs/unixarch.gif) and its minimun articulation and [assembly](https://www.google.es/search?q=ensamblador+map).
+Someone could say that talking about simulating real hardware, [machine language](https://es.wikipedia.org/wiki/Lenguaje_de_m%C3%A1quina) instead of [interpreted languages] (https://en.wikipedia.org/wiki/Interpreted_language) could worth the narrow semantics. "I agree when my app is running on host process, and disagree when it runs on guest", another one could say.
+
+While [transcription and traduction](http://www.diffen.com/difference/Transcription_vs_Translation) are not exactly the same, a [real](https://es.wikipedia.org/wiki/Privilegio) or virtual machine are not both the same. It matters, at last protein creation from [root language](http://genome.ucsc.edu/cgi-bin/hgTables?command=start) codification over basic [system components](http://minnie.tuhs.org/CompArch/Lectures/Figs/unixarch.gif) and its minimun articulation and [assembly](https://www.google.es/search?q=ensamblador+map).
