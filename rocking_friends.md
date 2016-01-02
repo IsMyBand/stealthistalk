@@ -49,6 +49,10 @@ JVM,JIT,JRE and JDK
 -------------------
 [wiki](http://technicalminds.in/wp-content/uploads/2014/01/jdkdiagram.jpg)
 
+<blockquote>The goal here is a kind of <i><a href="https://duckduckgo.com/?q=sky+is+over&ia=lyrics">world is over</a></i> pain, so... no just one world, but many. No matter where your code awakes on. It must [go ahead](https://duckduckgo.com/?q=occupy+wall+street).</blockquote>
+
+Just as if someone, like you and me, wish [to come real](https://duckduckgo.com/?q=portishead+mysterons&ia=lyrics) or, at least, to be in execution mode, no matter where [we fall our seed](http://programmers.stackexchange.com/questions/102090/why-isnt-java-used-for-modern-web-application-development). Platform independent like.
+
 You know, girl, those letters up there on the title of such a friend-section, rules the band [old-school](https://en.wikipedia.org/wiki/Java_version_history#JDK_1.0) path, 20 years past. So this text will be freaking disgusting [draconian staff](https://www.google.es/search?q=PARADISE+LOST-+Draconian+Times).
 
 Ok, let's say, running into town like [cowboys from hell](https://www.youtube.com/watch?v=i97OkCXwotE). Ain't *Jawa* rock? without [remorse](https://www.youtube.com/watch?v=EPA2rEsIgSU)! More old staff!
