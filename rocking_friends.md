@@ -44,3 +44,25 @@ v12n is a ***numeronym***, and, in public, by the wide side of viewing things, w
 Someone could say that talking about simulating real hardware, [machine language](https://es.wikipedia.org/wiki/Lenguaje_de_m%C3%A1quina) instead of [interpreted languages] (https://en.wikipedia.org/wiki/Interpreted_language) could worth the narrow semantics. "I agree when my app is running on host process, and disagree when it runs on guest", another one could say.
 
 While [transcription and traduction](http://www.diffen.com/difference/Transcription_vs_Translation) are not exactly the same, a [real](https://es.wikipedia.org/wiki/Privilegio) or virtual machine are not both the same. It matters, at last protein creation from [root language](http://genome.ucsc.edu/cgi-bin/hgTables?command=start) codification over basic [system components](http://minnie.tuhs.org/CompArch/Lectures/Figs/unixarch.gif) and its minimun articulation and [assembly](https://www.google.es/search?q=ensamblador+map).
+
+JVM,JIT,JRE and JDK 
+-------------------
+[wiki](http://technicalminds.in/wp-content/uploads/2014/01/jdkdiagram.jpg)
+
+You know, girl, those letters up there on the title of such a friend-section, rules the band [old-school](https://en.wikipedia.org/wiki/Java_version_history#JDK_1.0) path, 20 years past. So this text will be freaking disgusting [draconian staff](https://www.google.es/search?q=PARADISE+LOST-+Draconian+Times).
+
+Ok, let's say, running into town like [cowboys from hell](https://www.youtube.com/watch?v=i97OkCXwotE). Ain't *Jawa* rock? without [remorse](https://www.youtube.com/watch?v=EPA2rEsIgSU)! More old staff!
+
+JVM, JIT, JRE and JDK are **bundle software**. Just keep and eye on one of them if you like, but there is no point on that. Meaning that while you are [riding the lighting in this free world](https://www.youtube.com/watch?v=-CkNTeUT-0g), some [tunning in your heaps](https://docs.jivesoftware.com/jive/7.0/community_admin/index.jsp?topic=/com.jivesoftware.help.sbs.online/admin/AdjustingJavaVirtualMachineJVMSettings.html) is [possible](https://www.youtube.com/watch?v=6Ejga4kJUts), i.e.: 
+
+... to set the minimum and maximum heap available on the web application node to 4GB, from the command line interface you would type the following:
+
+```java
+jive set webapp.jvm_heap_max 4096
+
+jive set webapp.jvm_heap_min 4096
+```
+The default JVM values for each of the nodes is listed in [Startup Property Reference](https://docs.jivesoftware.com/jive/7.0/community_admin/topic/com.jivesoftware.help.sbs.online/admin/CLIStartupPropertyReference.html). The command settings are listed in [Startup Properties Commands](https://docs.jivesoftware.com/jive/7.0/community_admin/topic/com.jivesoftware.help.sbs.online/admin/StartupCommands.html). 
+
+
+
