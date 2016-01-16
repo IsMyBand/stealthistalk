@@ -3,7 +3,7 @@ seminary >
 TDD & Android
 =================
 
- This as short six hours talk about test-drive development on Android.
+ This as short six hours talk about test-driven development on Android.
 
 Some kind of sketch for Scrum masters.
 
